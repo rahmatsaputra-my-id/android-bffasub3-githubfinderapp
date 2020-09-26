@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RahmatSaputra</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="reminder_on">Turn On Reminder</string>
+    <string name="reminder_off">Turn Off Reminder</string>
+    <string name="api_limit">API rate limit exceeded</string>
+    <string name="content_title">Content title</string>
+    <string name="content_text">Content text</string>
+    <string name="subtext">Sub text</string>
+    <string name="content_image_description">Will show image detail</string>
+</resources>
